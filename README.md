@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Assignment Title: E-commerce Development Task
 
-First, run the development server:
+## Assignment Description:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+In this assignment, I created a basic e-commerce application using Next.js. I had applied key Nextjs concepts and fundamental web development skills. I had developed a multi-page web application named "OnlineStore" that allows users to browse and search for products.
+And there is also not found page if any extra url is put.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Instructions:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone or download the zip file.
+2. Open terminal and then type npm run dev.
+3. Enjoy the page.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# View Page
 
-To learn more about Next.js, take a look at the following resources:
+## Home Page
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![screencapture-localhost-3000-2023-07-06-19_04_02](https://github.com/gcrajan/frontend-assignment/assets/57903373/dd9e77f1-c0d4-496b-8cbe-e8619f77db9f)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<br/>
+<br/>
 
-## Deploy on Vercel
+## Shop Page
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![screencapture-localhost-3000-search-2023-07-06-19_04_17](https://github.com/gcrajan/frontend-assignment/assets/57903373/67b651a8-a298-45c5-8099-3b4745eb6baa)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<br/>
+<br/>
+
+## Shop Page Item (Dynamic Routing)
+
+![screencapture-localhost-3000-search-3-2023-07-06-19_04_40](https://github.com/gcrajan/frontend-assignment/assets/57903373/12829570-5d01-4f8e-8a93-c8aee8b2e044)
+
+<br/>
+<br/>
+
+## Contact Page
+
+![screencapture-localhost-3000-contact-2023-07-06-19_04_48](https://github.com/gcrajan/frontend-assignment/assets/57903373/827f782c-a6bb-4fa4-bf17-2d22c92c9cba)
+
+

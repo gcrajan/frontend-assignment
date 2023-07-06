@@ -2,47 +2,37 @@
 
 ## Assignment Description:
 
-In this assignment, you will create a basic e-commerce application using Next.js / React.js. You'll apply key React/Next concepts and fundamental web development skills. Your task is to develop a multi-page web application named "OnlineStore" that allows users to browse and search for products.
+In this assignment, I create a basic e-commerce application using Next.js. I have applied key Next js concepts and fundamental web development skills. I had develop a multi-page web application named "OnlineStore" that allows users to browse and search for products.
 
 ## Instructions:
 
-1. Fork the provided project repository to your profile and clone it to your machine to begin the project.
-2. Design and implement a web application named "OnlineStore" that allows users to browse and search for products.
-3. The application should have the following pages:
-   - Home Page: Display a list of products with their images, names, and prices. Fetch the list from the provided API endpoint.
-   - Search Page: Include a search bar where users can input the name of a product. On form submission, display a list of search results (products) fetched from the API endpoint.
-   - Product Details Page: When a user clicks on a product from the search results or product list, they should be redirected to a page that displays detailed information about the product, including the product image, name, price, and description.
+1. Clone it or download zip direclty.
+2. Select ecom folder and then open vscode .
+3. Run npm install and then run npm run dev.
+4. Now, you could see the final product as below.
 
-You can fetch data using the following API endpoint: https://fakestoreapi.com/
+#HomePage
 
-## Requirements:
+![screencapture-localhost-3000-2023-07-06-16_03_33](https://github.com/gcrajan/frontend-assignment/assets/57903373/9434ef9d-7d26-4a08-aafe-21daff52f488)
 
-- Use React.js/Next.js to create the web application.
-- Create a visually appealing UI using any CSS framework (like Bootstrap, Tailwind CSS).
-- Use react query (Tanstack query) for fetching and caching the api data.
-- Implement client-side routing to enable smooth transitions between pages.
-- Write clean, maintainable, and well-documented code.
-- Use Git for version control, committing your code regularly to the forked Git repository in your profile.
-- Deploy the application to a hosting platform (e.g., Vercel, Netlify) and provide a live demo URL in your repo and the submission form.
+<br/>
+<br/>
 
-### Bonus Points:
+#ShopPage
 
-- Making use of TypeScript for type safety.
-- Use of Next.js is preferred over react
-- Use of global state management with Redux toolkit, Recoil or any other state management library.
-- Implement a responsive UI to improve user experience on mobile devices.
-- Handle loading and error states during data fetching.
-- Add a shopping cart functionality where users can add products to the cart and view the cart.
+![screencapture-localhost-3000-search-2023-07-06-16_04_00](https://github.com/gcrajan/frontend-assignment/assets/57903373/28319479-ea5d-40fb-a185-1ec0da1ed6f1)
 
-## Submission Guidelines:
+<br/>
+<br/>
 
-1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/frontend-assignment) to your own GitHub account.
-2. Commit your code regularly and push the changes to your forked repository.
-3. Do not create a pull request; just submit your forked repository.
-4. Provide a DOCS.md file with all the technologies used and how to run the program locally.
-5. Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/G8o13gui7hQR8p39A).
+#ShopPageItem(Dynamic Routing)
 
-- Submission Deadline: Thursday, July 6, 2023, 4:00 PM
+![screencapture-localhost-3000-search-1-2023-07-06-16_02_24](https://github.com/gcrajan/frontend-assignment/assets/57903373/fdb25140-9d48-40f0-9ef4-58a335470899)
 
-Check out the discussion section of this repo to ask any related queries or doubts.
-Note: The assignment is intended to help you grasp basic concepts. Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
+<br/>
+<br/>
+
+#ContactPage
+
+![screencapture-localhost-3000-contact-2023-07-06-16_04_21](https://github.com/gcrajan/frontend-assignment/assets/57903373/0d263995-2a86-4547-bde5-73cd24afad89)
+

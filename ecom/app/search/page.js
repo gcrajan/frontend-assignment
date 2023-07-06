@@ -7,7 +7,7 @@ import React,{useEffect,useState} from 'react'
 import musiclistStyle from '../../styles/musiclist.module.css'
 
 
-const page = ({ slug }) => {
+const page = () => {
   const [searchInput,setSearchInput]= useState("");
   const [info,setInfo]= useState();
   const url = 'https://fakestoreapi.com/products';
